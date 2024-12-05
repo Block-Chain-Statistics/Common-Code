@@ -78,4 +78,10 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 # secret key
+<<<<<<< Updated upstream
 secret_key.yaml
+=======
+secret_key.yaml
+
+__pycache__/
+>>>>>>> Stashed changes

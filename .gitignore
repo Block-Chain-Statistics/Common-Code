@@ -79,3 +79,5 @@ fabric.properties
 
 # secret key
 secret_key.yaml
+
+*/__pycache__

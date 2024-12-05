@@ -12,6 +12,9 @@ pytest = "^8.3.3"
 pylint = "^3.3.1"
 black = {version = "^24.10.0", extras = ["d"]}
 pre-commit = "^4.0.1"
+jupyter = "^1.1.1"
+web3 = "^7.6.0"
+eth-abi = "^5.1.0"
 
 
 [build-system]
